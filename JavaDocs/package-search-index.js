@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.adib.products"},{"l":"com.adib.products.controller"},{"l":"com.adib.products.dto"},{"l":"com.adib.products.exception"},{"l":"com.adib.products.model"},{"l":"com.adib.products.msprodcuts"},{"l":"com.adib.products.repository"},{"l":"com.adib.products.service"}]

@@ -1,0 +1,8 @@
+com.adib.products
+com.adib.products.controller
+com.adib.products.dto
+com.adib.products.exception
+com.adib.products.model
+com.adib.products.prodcuts
+com.adib.products.repository
+com.adib.products.service
