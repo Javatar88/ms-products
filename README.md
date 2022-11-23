@@ -36,5 +36,5 @@ or to run the application locally:
   {
     "name": "HP 17-cn0078cl",
     "description": "HP 17-cn0078cl - intel core I7 - 32GB memory - 128gb ssd",
-    "price": 55
+    "price": 175
   }
