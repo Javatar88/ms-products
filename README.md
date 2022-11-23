@@ -25,7 +25,8 @@ docker-compose up
 or to run the application locally:
 
 # Json Request Example
-```{
+```yaml
+{
     "name": "Lenovo Ideapad 3",
     "description": "Lenovo Ideapad 3 - intel core I5 - 8GB memory - 128gb ssd",
     "price": 200
