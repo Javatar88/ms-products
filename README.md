@@ -17,6 +17,7 @@ Installation
  $ git clone https://github.com/Javatar88/ms-products.git
  
 2.after  cloning the code run the below commands:
+
 mvn clean install
 
 mvn spring-boot:run
@@ -24,10 +25,6 @@ mvn spring-boot:run
 
 
 
-
-mvn clean package
-docker-compose up
-or to run the application locally:
 
 # Json Request Example
 ```yaml
