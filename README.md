@@ -4,6 +4,7 @@ Spring Boot Crud Application and H2 is used as the in memory database.
 http://localhost:8080/swagger-ui/index.html
 # DB console URL 
 http://localhost:8080/h2-console
+
 Database userName:root
 Database password:root
 
