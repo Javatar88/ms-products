@@ -34,3 +34,4 @@ target/classes/application.properties
 target/classes/data.sql
 
 .idea
+*/target/**
