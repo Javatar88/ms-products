@@ -24,12 +24,14 @@ mvn clean package
 docker-compose up
 or to run the application locally:
 
-
+# Json Request Example
 ```{
     "name": "Lenovo Ideapad 3",
     "description": "Lenovo Ideapad 3 - intel core I5 - 8GB memory - 128gb ssd",
     "price": 200
   }
-  
-
-
+  {
+    "name": "HP 17-cn0078cl",
+    "description": "HP 17-cn0078cl - intel core I7 - 32GB memory - 128gb ssd",
+    "price": 55
+  }
