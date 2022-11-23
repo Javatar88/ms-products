@@ -26,10 +26,10 @@ or to run the application locally:
 
 
 ```{
-    "id": 1,
-    "name": "Think-pad x1",
-    "description": "Lenovo Think-Pad X1 - intel core I7 - 16GB memory - 512gb ssd",
-    "price": 350
-  }```
+    "name": "Lenovo Ideapad 3",
+    "description": "Lenovo Ideapad 3 - intel core I5 - 8GB memory - 128gb ssd",
+    "price": 200
+  }
+  
 
 
