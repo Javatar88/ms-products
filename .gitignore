@@ -22,3 +22,15 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+.idea/sonarlint/issuestore/index.pb
+.idea/sonarlint/issuestore/e/4/e4d552a1bef1bc1d1f48b739572143c96f0ffe3f
+.idea/sonarlint/issuestore/e/2/e23a559327caf4c951788df118fa5f5d6019581a
+.idea/sonarlint/issuestore/8/e/8eb0a97b9157d9f54b624822dac33e0d515539c5
+.idea/sonarlint/issuestore/5/6/56b587c3089fb3cffeab0391393ec3640e8f8f03
+.idea/sonarlint/issuestore/0/0/0010989b99150fdd94e95c2c3ff4239bd3ba3ad6
+.idea/sonarlint/issuestore/0/7/07bfb553a07700bd90ee245af8ca96c2a18c3dad
+.idea/sonarlint/issuestore/index.pb
+target/classes/application.properties
+target/classes/data.sql
+
+.idea
