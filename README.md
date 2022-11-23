@@ -6,6 +6,10 @@ Java 11
 
 Maven
 
+# Java Docs
+
+ java docs location is inside ms-products\JavaDocs
+
 # Swagger Link
 http://localhost:8080/swagger-ui/index.html
 # DB console URL 
@@ -18,7 +22,7 @@ Database password:root
 # application URL 
 http://localhost:8080/api/v1/products
 
-Installation
+# Normal Installation
 1.Clone the application
  $ git clone https://github.com/Javatar88/ms-products.git
  
@@ -27,6 +31,11 @@ Installation
 mvn clean install
 
 mvn spring-boot:run
+
+# Docker Installation
+docker build -t ms-product.jar .
+
+docker run -p 8080:8080 ms-product.jar
 
 
 
