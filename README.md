@@ -9,7 +9,7 @@ Database userName:root
 
 Database password:root
 
-# application runs 
+# application URL 
 http://localhost:8080/api/v1/products
 
 Installation
