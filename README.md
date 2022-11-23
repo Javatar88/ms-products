@@ -6,6 +6,8 @@ Java 11
 
 Maven
 
+Docker
+
 # Java Docs
 
  java docs location is inside ms-products\JavaDocs
