@@ -1,5 +1,10 @@
 # Spring-Boot-Product-System
-Spring Boot Crud Application and H2 is used as the in memory database.
+Spring Boot Crud Application with H2 in memory database.
+
+# Requirement
+Java 11
+Maven
+
 # Swagger Link
 http://localhost:8080/swagger-ui/index.html
 # DB console URL 
